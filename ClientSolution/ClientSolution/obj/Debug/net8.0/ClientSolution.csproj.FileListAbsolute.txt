@@ -1,0 +1,14 @@
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\bin\Debug\net8.0\ClientSolution.exe
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\bin\Debug\net8.0\ClientSolution.deps.json
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\bin\Debug\net8.0\ClientSolution.runtimeconfig.json
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\bin\Debug\net8.0\ClientSolution.dll
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\bin\Debug\net8.0\ClientSolution.pdb
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\ClientSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\ClientSolution.AssemblyInfoInputs.cache
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\ClientSolution.AssemblyInfo.cs
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\ClientSolution.csproj.CoreCompileInputs.cache
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\ClientSolution.dll
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\refint\ClientSolution.dll
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\ClientSolution.pdb
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\ClientSolution.genruntimeconfig.cache
+C:\Users\Dators\source\repos\ClientSolution\ClientSolution\obj\Debug\net8.0\ref\ClientSolution.dll

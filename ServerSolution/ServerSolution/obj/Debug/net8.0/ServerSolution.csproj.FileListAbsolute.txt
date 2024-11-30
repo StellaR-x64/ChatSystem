@@ -1,0 +1,14 @@
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\bin\Debug\net8.0\ServerSolution.exe
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\bin\Debug\net8.0\ServerSolution.deps.json
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\bin\Debug\net8.0\ServerSolution.runtimeconfig.json
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\bin\Debug\net8.0\ServerSolution.dll
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\bin\Debug\net8.0\ServerSolution.pdb
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\ServerSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\ServerSolution.AssemblyInfoInputs.cache
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\ServerSolution.AssemblyInfo.cs
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\ServerSolution.csproj.CoreCompileInputs.cache
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\ServerSolution.dll
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\refint\ServerSolution.dll
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\ServerSolution.pdb
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\ServerSolution.genruntimeconfig.cache
+C:\Users\Dators\source\repos\ServerSolution\ServerSolution\obj\Debug\net8.0\ref\ServerSolution.dll
