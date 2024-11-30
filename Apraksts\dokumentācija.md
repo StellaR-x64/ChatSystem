@@ -1,5 +1,6 @@
 # ChatSystem
-SVARĪGI: uz viena porta drīkst būt tikai viens serveris atvērts(client aplikācijas var slēgties cik grib), piemēram ja serveris ir uz port 5000, tad vēlvienu serveri tur vairs nedrīkstēs veidot, jāizvēlas cits ports.
+SVARĪGI: uz viena porta drīkst būt tikai viens serveris atvērts(client aplikācijas var slēgties cik grib), piemēram ja serveris ir uz port 5000, tad vēlvienu serveri tur vairs nedrīkstēs veidot, jāizvēlas cits ports. 
+ClientSolution un ServerSolution ir paši pirmie (var teikt ka alfa testēšana) protoipi kad iesāku šo projektu, tālu no izstrādāta projekta, bet to pašu funkciju vien pilda (sarakstīties var, bet tikai ja vairāki ClientSolution ir pieslēgti pie servera, jo no paša ServerSolution nevar sūtīt isziņas).
 
 Kā testēt/izmantot šo programmu: No sākuma nepieciešams ielādēt šo "ChatSystem" mapi kopā ar "ChatSystem.sln" un jāatver "ChatSystem.sln" (ieteicams vairākus lai pilnība izstestētu kā šī programma strādā), un tas arī viss. Tālāk var droši sarakstīties cik vien daudz gribās.
 
